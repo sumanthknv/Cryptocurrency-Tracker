@@ -1,0 +1,33 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-family: roboto;
+  font-size: 34px;
+  color: #00e7ff;
+  font-weight: bold;
+}
+.lists-container {
+  list-style-type: none;
+  border: 2px dotted #00e7ff;
+  border-radius: 4px;
+  width: 90%;
+}
+.table-heading {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+}
+.usd-euro-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.coin-heading {
+  font-family: roboto;
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+}
